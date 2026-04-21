@@ -260,79 +260,116 @@ const EmailCalendar = () => {
     },
     {
       month: "May",
-      theme: "Exam Week Support & Early Results",
+      theme: "Plant the Seed.Summer is Coming",
       emails: [
         {
           week: "Week 1",
-          subject: "Tonight: The confidence ritual that changes everything",
-          hook: "Pre-Exam Support",
-          cta: "Need last-minute support? Reply CONFIDENCE",
-          prompt: "Write a supportive email for the night before the exam. Provide a calming ritual or routine. Build confidence without adding pressure. Make it feel like you're in their corner. Keep it brief and encouraging. CTA: offer to provide personal encouragement via reply."
+          subject: "The AP exam is over. Now the REAL advantage starts.",
+          hook: "Transition/Opportunity",
+          cta: "Book your free Student Success Session → aceapcomputerscience.com/summer-apply",
+          prompt: "Write a marketing email to parents of high school students. The AP CS exam just ended — use this moment to pivot. The angle: the exam is done, but the smartest students don't stop here. They use the summer to build REAL coding confidence, get ahead of next year's class, and build a portfolio project (a 2D game). Mention our summer program includes 2x weekly live classes, 1-on-1 game plan, offline homework support, and weekly knowledge checks. Tone: energizing, forward-looking, zero pressure. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply. Don't mention specific pricing."
         },
         {
           week: "Week 1",
-          subject: "You've got this. Here's why I'm certain.",
-          hook: "Encouragement/Belief",
-          cta: "Reply after your exam - I want to hear how it went",
-          prompt: "Write a pure encouragement email. List specific reasons why they're prepared. Build confidence through evidence and belief. Make it personal and warm. No sales, just support. Create connection for post-exam engagement. CTA: simply reply afterward."
+          subject: "What's your teen doing this summer?",
+          hook: "Personal/Parental Concern",
+          cta: "See how we keep students sharp → Book a free call",
+          prompt: "Write a short, personal-feeling email to parents. Open with the question every parent is thinking: what's my kid going to do all summer? Position our summer CS program as the productive alternative to screen time. Mention students build a real 2D game they can showcase in a personal portfolio. Include social proof from past students. Keep it conversational and parent-friendly. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
         },
         {
           week: "Week 2",
-          subject: "How did it go? (And what's next)",
-          hook: "Post-Exam Check-in",
-          cta: "Share your experience - Reply to this email",
-          prompt: "Follow up after exam day. Ask how it went. Validate whatever they experienced. Transition to what's next (future CS courses, results wait, etc). Keep conversation going. Build relationship beyond the immediate prep. CTA: engage in conversation by replying."
+          subject: "Summer brain drain is real. Here's the antidote.",
+          hook: "Problem/Solution",
+          cta: "Protect your teen's progress — Book your free session",
+          prompt: "Write an email to parents about the 'summer slide' in learning. Use a light stat or reference to how students lose academic ground over summer. Position our AP CS summer program as the fix — students don't just maintain skills, they accelerate. Mention the structure: live classes twice a week, homework support, knowledge checks. Make it feel like the responsible parenting move without being preachy. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
+        },
+     {
+          week: "Week 2",
+          subject: "This summer, your teen could build their first real app",
+          hook: "Aspiration/Tangible Outcome",
+          cta: "See the program → aceapcomputerscience.com/summer-apply",
+          prompt: "Write an aspirational email focused on the tangible outcome: students build a 2D game and create their own portfolio. Contrast this with a typical summer of doing nothing productive. Make parents imagine telling friends/family 'my kid built a game this summer.' Include what's included in the program (live classes, 1-on-1 game plan, support videos, homework help). Tone: proud parent energy. CTA: Book a free Student Success Session."
         },
         {
           week: "Week 3",
-          subject: "While you wait for scores: The smart student's next move",
-          hook: "Forward-Looking",
-          cta: "Plan your CS journey - Book planning call",
-          prompt: "Help them productively use the waiting period. Suggest next steps (summer coding projects, CS courses, college prep). Position long-term relationship. Introduce other offerings if applicable. Keep them engaged with your brand. CTA: book a planning session."
+          subject: "3 reasons top students don't take summer off from CS",
+          hook: "Authority/List",
+          cta: "Give your teen the edge — Book a free call",
+          prompt: "Write a listicle-style email with 3 compelling reasons why ambitious students use summer to get ahead in CS: (1) they build confidence without classroom pressure, (2) they create portfolio projects that impress colleges, (3) they start next year already ahead. Weave in details about our program — 2x weekly live classes, 1-on-1 game plan, weekly knowledge checks. Target parents of high-achievers. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
+        },
+         {
+          week: "Week 3",
+          subject: "\"My son went from confused to confident in 4 weeks\"",
+          hook: "Social Proof/Testimonial",
+          cta: "Your teen could be next — Book your free session",
+          prompt: "Write a testimonial-driven email. Use the angle of a parent sharing their student's transformation. Reference the kind of reviews on the program page — students who were struggling but became confident with patient, clear instruction. Don't fabricate quotes, but create a narrative arc: student was lost → joined the program → now confident and ahead. Mention the 2D game project and portfolio. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
+        },
+        {
+          week: "Week 4",
+          subject: "⏰ Summer spots are filling — here's what's left",
+          hook: "Scarcity/Urgency",
+          cta: "Check availability → aceapcomputerscience.com/summer-apply",
+          prompt: "Write an urgency email. We only take a limited number of students each session (only 5 spots per month for the free success session). Session 1 starts July 8 with Tues/Thurs 8pm EST classes. Create genuine FOMO without being pushy. Mention the $30 refundable deposit to register. Remind parents what's included: live classes, 1-on-1 game plan, homework support, knowledge checks, support videos, portfolio project. CTA: Book a free Student Success Session now at aceapcomputerscience.com/summer-apply."
         }
       ]
     },
     {
-      month: "June-July",
-      theme: "Results, Celebration & Next Steps",
+      month: "June",
+      theme: "Last Call - Lock In Their Summer",
       emails: [
         {
-          week: "June Week 1",
-          subject: "The waiting game: What your score actually means",
-          hook: "Education/Preparation",
-          cta: "Questions about your score? Let's talk - Book here",
-          prompt: "Educate about score release and interpretation. Manage expectations. Explain what different scores mean for college credit. Position yourself as the guide through results. Prepare them to respond productively to any score. CTA: book a results debrief call."
+          
+   week: "Week 1",
+          subject: "June is here. Is your teen's summer planned or wasted?",
+          hook: "Contrast/Urgency",
+          cta: "Plan a productive summer → Book free call",
+          prompt: "Write a direct email to parents. June is here and summer is about to start. Contrast two scenarios: Teen A scrolls TikTok all summer vs Teen B builds a game, learns CS, and starts next year confident. Position our summer program as the bridge. Mention Session 1 starts July 8. Include program details (2x weekly live classes Tues/Thurs 8pm EST, 1-on-1 game plan, offline support). CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
         },
         {
-          week: "June Week 2",
-          subject: "Scores are in. Now what?",
-          hook: "Results-Focused",
-          cta: "Got your score? Let's celebrate or strategize - Reply with your score",
-          prompt: "React to score release. Celebrate successes and address disappointments. Offer next steps for both scenarios (5-scorers: advanced opportunities; lower scores: retake strategy, other CS paths). Be supportive regardless of outcome. CTA: engage by sharing results."
+          week: "Week 1",
+          subject: "The college application secret hiding in your teen's summer",
+          hook: "Stakes/Aspiration",
+          cta: "Build their edge this summer — Book a call",
+          prompt: "Write an email connecting summer CS skills to college admissions. Admissions officers love students who show initiative — a personal portfolio with a game they built is exactly that. Position the summer program as a college-boosting move, not just academics. Mention the portfolio project specifically. Target parents already thinking about college prep. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
+        },
+         {
+          week: "Week 2",
+          subject: "What does your teen get out of our summer CS program?",
+          hook: "Value Breakdown",
+          cta: "See everything included → Book your free session",
+          prompt: "Write a value-stack email that breaks down everything included in the summer program: (1) 1-on-1 personalized game plan session, (2) 2x weekly live classes, (3) offline homework support, (4) weekly knowledge checks, (5) engaging support videos, (6) a real 2D game project for their portfolio. Make each feel valuable on its own, then show the total package. Mention the $30 refundable deposit. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
         },
         {
-          week: "June Week 3",
-          subject: "We did it! 🎉 (And here's what we're doing next)",
-          hook: "Celebration/Forward",
-          cta: "Continue your CS journey - Book consultation",
-          prompt: "Celebrate collective success (share aggregated results if available). Transition to future opportunities. Introduce programs for summer/next year. Thank them for being part of your community. Keep momentum going. CTA: book for next-level offerings."
+          week: "Week 2",
+          subject: "Your teen doesn't need to be a 'tech kid' to thrive in CS",
+          hook: "Objection Handling",
+          cta: "Every student starts somewhere — Book a free call",
+          prompt: "Write an objection-busting email for parents who think CS isn't for their kid. Address the myth that you need to be a 'natural' at coding. Reference the testimonials — students who were confused, struggled, or had no background but thrived with patient instruction. Mention the program is designed to build confidence from scratch. Tone: warm, encouraging, inclusive. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
+        },
+         {
+          week: "Week 3",
+          subject: "🚨 Session 1 starts July 8 — final spots going now",
+          hook: "Deadline/Scarcity",
+          cta: "Grab your spot → aceapcomputerscience.com/summer-apply",
+          prompt: "Write a high-urgency email. Session 1 of the summer program starts July 8, meeting Tues/Thurs at 8pm EST, running through Aug 4. Only a limited number of students per session. If they've been thinking about it, now is the time. Recap the key benefits quickly (live classes, game project, portfolio, confidence). Mention Session 2 (Aug 5 - Sept 1) as backup but push Session 1. CTA: Book a free Student Success Session immediately at aceapcomputerscience.com/summer-apply."
         },
         {
-          week: "July Week 1",
-          subject: "The '5-Scorer Summer': Turn your success into opportunity",
-          hook: "Advancement",
-          cta: "Explore advanced opportunities - Click here",
-          prompt: "Target successful students. Suggest ways to leverage their AP CS success (internships, projects, advanced courses). Position yourself as ongoing mentor. Introduce relevant programs or resources. Keep them engaged with your brand. CTA: book an advancement planning session."
+          week: "Week 3",
+          subject: "I'm setting aside 5 free strategy calls this week",
+          hook: "Exclusivity/Generosity",
+          cta: "Claim yours before they're gone → Book here",
+          prompt: "Write a personal email from the instructor's perspective. This week, you're setting aside 5 free Student Success Sessions to help parents create a tailored learning plan for their teen. On the call, you'll identify the most efficient way to help their student understand CS. These calls are genuinely limited. Tone: generous, personal, helpful. No hard sell. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
         },
-        {
-          week: "July Week 2",
-          subject: "Next year's students are already asking about you...",
-          hook: "Social Proof/Referral",
-          cta: "Know someone who needs this? Forward this email",
-          prompt: "Create a referral-focused email. Share success stories from this cohort. Make current students feel proud. Ask for referrals naturally. Offer incentive if appropriate. Plant seeds for next year's enrollment. CTA: refer friends or family."
+         {
+          week: "Week 4",
+          subject: "Last week before Session 1 — don't let summer slip away",
+          hook: "Final Push",
+          cta: "Register now - $30 refundable deposit → Book call",
+          prompt: "Write a final-push email for the last week of June. Create maximum urgency. Remind parents of everything their teen will gain: CS confidence, a real portfolio project, structured learning, expert support. Address the low commitment — only a $30 refundable deposit. Make it feel like this is the last responsible moment to act. CTA: Book a free Student Success Session at aceapcomputerscience.com/summer-apply."
         }
       ]
     }
+    
   ];
 
   return (
